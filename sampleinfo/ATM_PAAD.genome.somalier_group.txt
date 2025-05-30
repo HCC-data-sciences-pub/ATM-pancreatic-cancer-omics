@@ -1,0 +1,15 @@
+PNATM-101-normal,PNATM-101-tumor
+PNATM-102-normal,PNATM-102-tumor
+PNATM-104-normal,PNATM-104-tumor
+PNATM-105-normal,PNATM-105-tumor
+PNATM-108-normal,PNATM-108-tumor
+PNATM-109-normal,PNATM-109-tumor
+PNATM-113-normal,PNATM-113-tumor
+PNATM-115-normal,PNATM-115-tumor
+PNATM-116-normal,PNATM-116-tumor
+PNATM-117-normal,PNATM-117-tumor
+PNATM-119-normal,PNATM-119-tumor
+PNATM-121-normal,PNATM-121-tumor
+PNATM-122-normal,PNATM-122-tumor
+PNATM-124-normal,PNATM-124-tumor
+PNATM-125-normal,PNATM-125-tumor
